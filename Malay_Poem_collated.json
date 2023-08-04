@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "621f9ab2-75a7-4f2a-a075-7c29d8843ad6",
+            "collectionId": "Malay",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Malay/621f9ab2-75a7-4f2a-a075-7c29d8843ad6_ma_Male.mp4"
+        },
+        {
+            "id": "e8f42e21-8b88-41dc-9912-138e603142e6",
+            "collectionId": "Malay",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Malay/e8f42e21-8b88-41dc-9912-138e603142e6_ma_Female.mp4"
+        },
+        {
+            "id": "1a2919dc-94ce-412f-b8ef-3085e586a0ec",
+            "collectionId": "Malay",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Malay/1a2919dc-94ce-412f-b8ef-3085e586a0ec_ma_Male.mp4"
+        }
+    ]
+}
